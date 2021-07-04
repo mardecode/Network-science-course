@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-05-27">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="H1" label="H1" />
+      <node id="H2" label="H2" />
+      <node id="H11" label="H11" />
+      <node id="H10" label="H10" />
+      <node id="H8" label="H8" />
+      <node id="H12" label="H12" />
+      <node id="H6" label="H6" />
+      <node id="H3" label="H3" />
+      <node id="H9" label="H9" />
+      <node id="H7" label="H7" />
+      <node id="H5" label="H5" />
+      <node id="H4" label="H4" />
+    </nodes>
+    <edges>
+      <edge source="H1" target="H11" id="0" />
+      <edge source="H1" target="H12" id="1" />
+      <edge source="H1" target="H3" id="2" />
+      <edge source="H1" target="H8" id="3" />
+      <edge source="H1" target="H7" id="4" />
+      <edge source="H1" target="H5" id="5" />
+      <edge source="H2" target="H6" id="6" />
+      <edge source="H2" target="H10" id="7" />
+      <edge source="H2" target="H8" id="8" />
+      <edge source="H2" target="H11" id="9" />
+      <edge source="H2" target="H9" id="10" />
+      <edge source="H2" target="H7" id="11" />
+      <edge source="H2" target="H5" id="12" />
+      <edge source="H11" target="H10" id="13" />
+      <edge source="H11" target="H8" id="14" />
+      <edge source="H11" target="H9" id="15" />
+      <edge source="H11" target="H7" id="16" />
+      <edge source="H10" target="H8" id="17" />
+      <edge source="H10" target="H12" id="18" />
+      <edge source="H10" target="H9" id="19" />
+      <edge source="H10" target="H7" id="20" />
+      <edge source="H10" target="H5" id="21" />
+      <edge source="H8" target="H12" id="22" />
+      <edge source="H8" target="H3" id="23" />
+      <edge source="H8" target="H6" id="24" />
+      <edge source="H8" target="H7" id="25" />
+      <edge source="H8" target="H5" id="26" />
+      <edge source="H8" target="H4" id="27" />
+      <edge source="H12" target="H6" id="28" />
+      <edge source="H12" target="H3" id="29" />
+      <edge source="H12" target="H7" id="30" />
+      <edge source="H12" target="H5" id="31" />
+      <edge source="H12" target="H4" id="32" />
+      <edge source="H6" target="H7" id="33" />
+      <edge source="H6" target="H5" id="34" />
+      <edge source="H6" target="H4" id="35" />
+      <edge source="H3" target="H7" id="36" />
+      <edge source="H9" target="H7" id="37" />
+      <edge source="H7" target="H5" id="38" />
+      <edge source="H7" target="H4" id="39" />
+    </edges>
+  </graph>
+</gexf>

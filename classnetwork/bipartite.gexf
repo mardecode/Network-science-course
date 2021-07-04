@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-05-27">
+    <creator>NetworkX 2.5.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="P2" label="P2" />
+      <node id="H1" label="H1" />
+      <node id="P3" label="P3" />
+      <node id="P16" label="P16" />
+      <node id="P18" label="P18" />
+      <node id="P1" label="P1" />
+      <node id="H2" label="H2" />
+      <node id="P4" label="P4" />
+      <node id="P7" label="P7" />
+      <node id="P8" label="P8" />
+      <node id="H3" label="H3" />
+      <node id="P13" label="P13" />
+      <node id="P5" label="P5" />
+      <node id="H4" label="H4" />
+      <node id="P17" label="P17" />
+      <node id="H5" label="H5" />
+      <node id="P9" label="P9" />
+      <node id="P11" label="P11" />
+      <node id="P14" label="P14" />
+      <node id="P15" label="P15" />
+      <node id="H6" label="H6" />
+      <node id="P12" label="P12" />
+      <node id="H7" label="H7" />
+      <node id="H8" label="H8" />
+      <node id="P10" label="P10" />
+      <node id="H9" label="H9" />
+      <node id="P6" label="P6" />
+      <node id="H10" label="H10" />
+      <node id="H11" label="H11" />
+      <node id="H12" label="H12" />
+    </nodes>
+    <edges>
+      <edge source="P2" target="H1" id="0" />
+      <edge source="P2" target="H7" id="1" />
+      <edge source="P2" target="H8" id="2" />
+      <edge source="P2" target="H11" id="3" />
+      <edge source="H1" target="P3" id="4" />
+      <edge source="H1" target="P16" id="5" />
+      <edge source="H1" target="P18" id="6" />
+      <edge source="P3" target="H3" id="7" />
+      <edge source="P3" target="H7" id="8" />
+      <edge source="P16" target="H7" id="9" />
+      <edge source="P16" target="H12" id="10" />
+      <edge source="P18" target="H5" id="11" />
+      <edge source="P18" target="H7" id="12" />
+      <edge source="P1" target="H2" id="13" />
+      <edge source="P1" target="H6" id="14" />
+      <edge source="H2" target="P4" id="15" />
+      <edge source="H2" target="P7" id="16" />
+      <edge source="H2" target="P8" id="17" />
+      <edge source="P4" target="H7" id="18" />
+      <edge source="P4" target="H8" id="19" />
+      <edge source="P7" target="H5" id="20" />
+      <edge source="P7" target="H10" id="21" />
+      <edge source="P8" target="H7" id="22" />
+      <edge source="P8" target="H9" id="23" />
+      <edge source="P8" target="H10" id="24" />
+      <edge source="P8" target="H11" id="25" />
+      <edge source="H3" target="P13" id="26" />
+      <edge source="P13" target="H7" id="27" />
+      <edge source="P13" target="H8" id="28" />
+      <edge source="P13" target="H12" id="29" />
+      <edge source="P5" target="H4" id="30" />
+      <edge source="P5" target="H7" id="31" />
+      <edge source="P5" target="H8" id="32" />
+      <edge source="P5" target="H12" id="33" />
+      <edge source="H4" target="P17" id="34" />
+      <edge source="P17" target="H6" id="35" />
+      <edge source="P17" target="H8" id="36" />
+      <edge source="H5" target="P9" id="37" />
+      <edge source="H5" target="P11" id="38" />
+      <edge source="H5" target="P14" id="39" />
+      <edge source="H5" target="P15" id="40" />
+      <edge source="P9" target="H7" id="41" />
+      <edge source="P9" target="H8" id="42" />
+      <edge source="P11" target="H12" id="43" />
+      <edge source="P14" target="H6" id="44" />
+      <edge source="P14" target="H8" id="45" />
+      <edge source="P14" target="H12" id="46" />
+      <edge source="P15" target="H7" id="47" />
+      <edge source="P15" target="H8" id="48" />
+      <edge source="H6" target="P12" id="49" />
+      <edge source="P12" target="H7" id="50" />
+      <edge source="P12" target="H12" id="51" />
+      <edge source="H8" target="P10" id="52" />
+      <edge source="P10" target="H10" id="53" />
+      <edge source="P10" target="H12" id="54" />
+      <edge source="P6" target="H10" id="55" />
+    </edges>
+  </graph>
+</gexf>
